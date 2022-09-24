@@ -14,6 +14,10 @@ public class git {
 
         System.out.println("22222");
 
+
+        System.out.println("2");
+
         System.out.println("1");
+
     }
 }
